@@ -1,21 +1,14 @@
 {
-    "name": "amblydia/customies",
-    "prefer-stable": true,
-    "minimum-stability": "dev",
-    "license": "proprietary",
-    "autoload": {
-        "psr-4": {
-            "customiesdevs\\customies\\": "src/"
-        }
-    },
-    "extra": {
-        "virion": {
-            "spec": "3.0",
-            "namespace-root": "customiesdevs\\customies"
-        }
-    },
-    "require": {
-        "symfony/filesystem": "^6.4",
-        "pocketmine/pocketmine-mp": "^5.0"
+  "name": "amblydia/customies",
+  "autoload": {
+    "psr-4": {
+      "customiesdevs\\customies\\": "src/"
     }
+  },
+  "extra": {
+    "virion": {
+      "spec": "3.0",
+      "namespace-root": "customiesdevs\\customies"
+    }
+  }
 }
