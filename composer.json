@@ -4,8 +4,8 @@
     "minimum-stability": "dev",
     "license": "proprietary",
     "autoload": {
-        "psr-0": {
-            "customiesdevs\\customies\\": "src"
+        "psr-4": {
+            "customiesdevs\\customies\\": "src/"
         }
     },
     "require": {
