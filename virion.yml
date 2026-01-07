@@ -1,0 +1,4 @@
+name: Customies
+version: 5.0.0
+antigen: customiesdevs\customies
+api: [5.0.0]
